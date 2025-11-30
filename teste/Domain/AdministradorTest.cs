@@ -1,3 +1,5 @@
+using MinimalApi.Dominio.Entidades;
+
 namespace teste.Domain.Entidades;
 
 [TestClass]
